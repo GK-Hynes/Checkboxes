@@ -1,9 +1,9 @@
-# Hold Shift to Check Multiple Checkboxes
+# [Hold Shift to Check Multiple Checkboxes](https://gk-hynes.github.io/checkboxes/)
 
 A page for working on checkbox selection. Built for Wes Bos'
 [JavaScript 30](https://javascript30.com/) course.
 
-![Screenshot of checkbox page](https://res.cloudinary.com/gerhynes/image/upload/v1515706202/Checkboxes_rlgwud.png)
+[![Screenshot of checkbox page](https://res.cloudinary.com/gerhynes/image/upload/v1515706202/Checkboxes_rlgwud.png)](https://gk-hynes.github.io/checkboxes/)
 
 ## Notes
 
